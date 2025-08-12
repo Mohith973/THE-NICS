@@ -1,0 +1,6 @@
+spacy
+pdfplumber
+fpdf
+pandas
+tqdm
+openpyxl
